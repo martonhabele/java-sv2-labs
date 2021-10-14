@@ -21,8 +21,8 @@ a Java osztályokat fogjátok alapszinten megismerni.
 
 ## Bevezetés a Java osztályok használatába
 
-* [ ] [Kiírás és beolvasás konzolról videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709894-kiiras-es-beolvasas-konzolrol)
-* [ ] Kiírás és beolvasás konzolról gyakorlati feladat
+* [x] [Kiírás és beolvasás konzolról videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709894-kiiras-es-beolvasas-konzolrol)
+* [x] Kiírás és beolvasás konzolról gyakorlati feladat
 * [ ] [Objektumok és attribútumok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709892-objektumok-es-attributumok)
 * [ ] Objektumok és attribútumok gyakorlati feladat
 * [ ] [Metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709890-metodusok)
@@ -34,8 +34,8 @@ a Java osztályokat fogjátok alapszinten megismerni.
 
 ## Konzultációk
 
-* [ ] 2021-10-11 konzultáció részvétel/videó
-* [ ] 2021-10-11 konzultáció gyakorlati feladat
+* [x] 2021-10-11 konzultáció részvétel/videó
+* [x] 2021-10-11 konzultáció gyakorlati feladat
 * [x] 2021-10-12 konzultáció részvétel/videó
 * [ ] 2021-10-12 konzultáció gyakorlati feladat
 * [ ] 2021-10-14 konzultáció részvétel/videó
