@@ -32,5 +32,4 @@ public class Client {
     public void migrate(String newAddress){
         address = newAddress;
     }
-
 }
