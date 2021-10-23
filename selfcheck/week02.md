@@ -13,12 +13,12 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 * [x] Kifejezések és utasítások gyakorlati feladat
 * [x] [Csomagok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709796-csomagok)
 * [x] Csomagok gyakorlati feladat
-* [ ] [Java API videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709757-java-api)
-* [ ] Java API gyakorlati feladat
-* [ ] [JAR állomány videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709835-jar-allomany)
-* [ ] JAR állomány gyakorlati feladat
-* [ ] [Szöveges típus](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709758-szoveges-tipus)
-* [ ] Szöveges típus gyakorlati feladat
+* [x] [Java API videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709757-java-api)
+* [x] Java API gyakorlati feladat
+* [x] [JAR állomány videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709835-jar-allomany)
+* [x] JAR állomány gyakorlati feladat
+* [x] [Szöveges típus](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709758-szoveges-tipus)
+* [x] Szöveges típus gyakorlati feladat
 * [ ] [Sortörés kezelése](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188842-sortores-kezelese)
 * [ ] Sortörés kezelése gyakorlati feladat
 * [ ] [Dátum és időkezelés alapok](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709798-datum-es-idokezeles-alapok)
