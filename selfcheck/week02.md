@@ -23,13 +23,13 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 * [x] Sortörés kezelése gyakorlati feladat
 * [x] [Dátum és időkezelés alapok](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709798-datum-es-idokezeles-alapok)
 * [x] Dátum és időkezelés alapok gyakorlati feladat
-* [ ] [Bevezetés a vezérlési szerkezetekbe](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709782-bevezetes-a-vezerlesi-szerkezetekbe)
-* [ ] Bevezetés a vezérlési szerkezetekbe gyakorlati feladat
+* [x] [Bevezetés a vezérlési szerkezetekbe](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709782-bevezetes-a-vezerlesi-szerkezetekbe)
+* [x] Bevezetés a vezérlési szerkezetekbe gyakorlati feladat
 
 ## Bonyolultabb típusok
 
-* [ ] [Tömbök](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709784-tombok)
-* [ ] Tömbök gyakorlati feladat
+* [x] [Tömbök](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709784-tombok)
+* [x] Tömbök gyakorlati feladat
 * [ ] [Parancssori paraméterek](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/17496052-parancssori-parameterek)
 * [ ] Parancssori paraméterek gyakorlati feladat
 * [ ] [Tömbök tömbje](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709631-tombok-tombje)
