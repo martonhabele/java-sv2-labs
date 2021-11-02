@@ -3,9 +3,9 @@ package intromethods.registration;
 import java.time.LocalDate;
 
 public class Person {
-    String name;
-    LocalDate dateOfBirth;
-    String email;
+    private String name;
+    private LocalDate dateOfBirth;
+    private String email;
 
     public Person(String name, LocalDate dateOfBirth, String email) {
         this.name = name;
