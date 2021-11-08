@@ -2,7 +2,6 @@ package meetingrooms;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class Office {
     private List<MeetingRoom> meetingRooms = new ArrayList<>();
@@ -24,7 +23,7 @@ public class Office {
     }
 
     public void printEvenNames() {
-        for (int i = 1; i < meetingRooms.size();i += 2 ) {
+        for (int i = 1; i < meetingRooms.size(); i += 2 ) {
             System.out.println(meetingRooms.get(i).getName());
         }
     }
