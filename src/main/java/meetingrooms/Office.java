@@ -38,8 +38,35 @@ public class Office {
     }
 
     public void printMeetingRoomsWithName(String name) {
-        Scanner scanner = new Scanner(name);
-        scanner.hasNext()
+        for (MeetingRoom mRooms: meetingRooms) {
+            if (mRooms.getName().equalsIgnoreCase(name)) {
+                System.out.println("Name: " + mRooms.getName());
+                System.out.println("Length: " + mRooms.getLength());
+                System.out.println("Width: " + mRooms.getWidth());
+                System.out.println("Area: " + mRooms.getArea());
+            }
+        }
+    }
 
+    public void printMeetingRoomsContains(String part) {
+        for (MeetingRoom mRooms: meetingRooms) {
+            if (mRooms.getName().contains(part)) {
+                System.out.println("Name: " + mRooms.getName());
+                System.out.println("Length: " + mRooms.getLength());
+                System.out.println("Width: " + mRooms.getWidth());
+                System.out.println("Area: " + mRooms.getArea());
+            }
+        }
+    }
+
+    public void printAreasLargerThan(int area) {
+        for (MeetingRoom mRooms: meetingRooms) {
+            if (mRooms.getArea() >= area) {
+                System.out.println("Name: " + mRooms.getName());
+                System.out.println("Length: " + mRooms.getLength());
+                System.out.println("Width: " + mRooms.getWidth());
+                System.out.println("Area: " + mRooms.getArea());
+            }
+        }
     }
 }
