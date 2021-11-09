@@ -1,7 +1,7 @@
 package introjunit;
 
 public class Gentleman {
-    String name;
+    private String name;
 
     public Gentleman(String name) {
         this.name = name;
