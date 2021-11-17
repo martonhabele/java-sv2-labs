@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class NumbersMain {
     public static void main(String[] args) {
         Change change = new Change();
-        int[] arrayToPrint = change.changeNumbers();
+        int[] arrayToPrint = change.changeNumbers().clone();
         System.out.println(Arrays.toString(arrayToPrint));
     }
 }
