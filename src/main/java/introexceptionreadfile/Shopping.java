@@ -12,6 +12,7 @@ public class Shopping {
             System.out.println(listItems);
         } catch (IOException ioe) {
             System.out.println("File cannot be read!");
+            ioe.printStackTrace();
         }
     }
 }
