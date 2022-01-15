@@ -4,8 +4,8 @@ Ezen a héten a kivételkezelésről szerzett ismereteiteket fogjátok bővíten
 
 ## Haladó kivételkezelés
 
-* [ ] [Kivételkezelés videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29772378-kivetelkezeles)
-* [ ] Kivételkezelés gyakorlati feladat
+* [x] [Kivételkezelés videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29772378-kivetelkezeles)
+* [x] Kivételkezelés gyakorlati feladat
 * [ ] [Saját kivétel videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29772385-sajat-kivetel)
 * [ ] Saját kivétel gyakorlati feladat
 * [ ] [Multi catch videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29772388-multi-catch)
