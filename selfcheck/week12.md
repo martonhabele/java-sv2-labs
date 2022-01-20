@@ -18,7 +18,7 @@ Ezen a héten a kollekciókkal fogtok részletesebben megismerkedni.
 * [x] Az equals() és hashCode() metódusok gyakorlati feladat
 * [x] [List, ArrayList kontra LinkedList videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769616-list-arraylist-kontra-linkedlist)
 * [x] List, ArrayList kontra LinkedList gyakorlati feladat
-* [ ] [Set videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769617-set)
+* [x] [Set videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769617-set)
 * [ ] Set gyakorlati feladat
 * [ ] [Queue videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769618-queue)
 * [ ] Queue gyakorlati feladat
