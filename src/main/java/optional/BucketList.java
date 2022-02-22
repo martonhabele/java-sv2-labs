@@ -14,19 +14,19 @@ public class BucketList {
     public Optional<Destination> getDestinationWithKeyword(String keyword) {
         for (Destination d : destinations) {
             if (d.getDescription().contains(keyword)) {
-                return optional.of(d);
+                return Optional.of(d);
             }
         }
-        return optional.empty();
+        return Optional.empty();
     }
 
     public Optional<Destination> getDestinationNearerThanGiven(int maxKm) {
         for (Destination d : destinations) {
             if (d.getKmFromHome() < maxKm) {
-                return optional.of(d);
+                return Optional.of(d);
             }
         }
-        return optional.empty();
+        return Optional.empty();
     }
 
     public List<Destination> getDestinations() {
