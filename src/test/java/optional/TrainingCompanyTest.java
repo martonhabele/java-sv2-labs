@@ -1,8 +1,5 @@
 package optional;
 
-import Optional.Course;
-import Optional.Level;
-import Optional.TrainingCompany;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.util.Arrays;

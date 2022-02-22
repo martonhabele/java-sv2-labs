@@ -7,8 +7,8 @@ Ezen a héten a lambda kifejezések és a streamek használatával fogtok részl
 * [x] [Bevezetés a lambda kifejezések használatába videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/31314536-bevezetes-a-lambda-kifejezesek-hasznalataba)
 * [x] [Bevezetés a lambda kifejezések használatába - gyakorlat videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/31315397-bevezetes-a-lambda-kifejezesek-hasznalataba-gyakorlat)
 * [x] Bevezetés a lambda kifejezések használatába gyakorlati feladat
-* [x] [Bevezetés az Optional osztály használatába videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/31319354-bevezetes-az-optional-osztaly-hasznalataba)
-* [x] Bevezetés az Optional osztály használatába gyakorlati feladat
+* [x] [Bevezetés az optional osztály használatába videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/31319354-bevezetes-az-optional-osztaly-hasznalataba)
+* [x] Bevezetés az optional osztály használatába gyakorlati feladat
 * [x] [Bevezetés a streamek használatába videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/31315582-bevezetes-a-streamek-hasznalataba)
 * [x] [Bevezezés a streamek használatába - gyakorlat - komplex példa videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/31315951-bevezezes-a-streamek-hasznalataba-gyakorlat-komplex-pelda)
 * [x] [Bevezetés a streamek használatába - gyakorlat - források videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/31316404-bevezetes-a-streamek-hasznalataba-gyakorlat-forrasok)
@@ -24,8 +24,8 @@ mindenképpen végezze el ezeket a leckéket is.
 
 * [x] [Lambda kifejezések videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16981999-lambda-kifejezesek)
 * [x] Lambda kifejezések gyakorlati feladat
-* [x] [Az Optional osztály használata videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982013-az-optional-osztaly-hasznalata)
-* [x] Az Optional osztály használata gyakorlati feladat
+* [x] [Az optional osztály használata videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982013-az-optional-osztaly-hasznalata)
+* [x] Az optional osztály használata gyakorlati feladat
 * [x] [Comparator módosítások videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982014-comparator-modositasok)
 * [x] Comparator módosítások gyakorlati feladat
 * [x] [Streamek videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982034-streamek)

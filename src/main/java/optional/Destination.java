@@ -1,4 +1,4 @@
-package Optional;
+package optional;
 
 public class Destination {
     private String name;

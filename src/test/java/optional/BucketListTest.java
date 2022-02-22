@@ -1,11 +1,9 @@
-package Optional;
+package optional;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.Optional;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class BucketListTest {
     BucketList bucketList;
@@ -26,7 +24,7 @@ class BucketListTest {
 
     @Test
     void testWithoutValidKeyword() {
-        assertEquals(Optional.empty(), bucketList.getDestinationWithKeyword("Xy"));
+        assertEquals(optional.empty(), bucketList.getDestinationWithKeyword("Xy"));
     }
 
     @Test
@@ -36,6 +34,6 @@ class BucketListTest {
 
     @Test
     void testNoDestinationNearer() {
-        assertEquals(Optional.empty(), bucketList.getDestinationNearerThanGiven(10));
+        assertEquals(optional.empty(), bucketList.getDestinationNearerThanGiven(10));
     }
 }

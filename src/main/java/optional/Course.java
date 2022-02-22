@@ -1,4 +1,4 @@
-package Optional;
+package optional;
 
 public class Course {
     private String name;

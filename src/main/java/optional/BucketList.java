@@ -1,4 +1,4 @@
-package Optional;
+package optional;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,19 +14,19 @@ public class BucketList {
     public Optional<Destination> getDestinationWithKeyword(String keyword) {
         for (Destination d : destinations) {
             if (d.getDescription().contains(keyword)) {
-                return Optional.of(d);
+                return optional.of(d);
             }
         }
-        return Optional.empty();
+        return optional.empty();
     }
 
     public Optional<Destination> getDestinationNearerThanGiven(int maxKm) {
         for (Destination d : destinations) {
             if (d.getKmFromHome() < maxKm) {
-                return Optional.of(d);
+                return optional.of(d);
             }
         }
-        return Optional.empty();
+        return optional.empty();
     }
 
     public List<Destination> getDestinations() {

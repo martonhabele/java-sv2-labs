@@ -1,4 +1,4 @@
-package Optional;
+package optional;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,30 +12,30 @@ public class TrainingCompany {
     }
 
     public Course getCheaperCourse(int maxPrice) {
-        Optional<Course> course = Optional.empty();
+        Optional<Course> course = optional.empty();
         for (Course c : courses) {
             if (c.getPrice() <= maxPrice) {
-                course = Optional.of(c);
+                course = optional.of(c);
             }
         }
         return course.orElseThrow(() -> new IllegalArgumentException("No course has been found!"));
     }
 
     public int getPriceOfCourseWithGivenNameAndLevel(String name, Level level) {
-        Optional<Course> course = Optional.empty();
+        Optional<Course> course = optional.empty();
         for (Course c : courses) {
             if (c.getName().equalsIgnoreCase(name) && c.getLevel() == level) {
-                course = Optional.of(c);
+                course = optional.of(c);
             }
         }
         return course.orElseThrow(() -> new IllegalArgumentException("No such course!")).getPrice();
     }
 
     public String getNameOfCourseWithGivenLevel(Level level) {
-        Optional<String> course = Optional.empty();
+        Optional<String> course = optional.empty();
         for (Course c : courses) {
             if (c.getLevel() == level) {
-                course = Optional.of(c.getName());
+                course = optional.of(c.getName());
             }
         }
         return course.orElse("No such named course!");
