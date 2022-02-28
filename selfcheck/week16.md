@@ -9,10 +9,10 @@ bemutatottakat kell megcsinálni a videóval együtt!
 
 ### Az adatbázisok és a MariaDB bemutatása
 
-* [ ] [Intro videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10770568-intro)
-* [ ] [Bevezetés videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10192487-bevezetes)
-* [ ] [A MariaDB és a Heidi letöltése és beállítása videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10192536-a-mariadb-es-a-heidi-letoltese-es-beallitasa)
-* [ ] [Adatbázisokkal kapcsolatos alapfogalmak videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10192484-adatbazisokkal-kapcsolatos-alapfogalmak)
+* [x] [Intro videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10770568-intro)
+* [x] [Bevezetés videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10192487-bevezetes)
+* [x] [A MariaDB és a Heidi letöltése és beállítása videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10192536-a-mariadb-es-a-heidi-letoltese-es-beallitasa)
+* [x] [Adatbázisokkal kapcsolatos alapfogalmak videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10192484-adatbazisokkal-kapcsolatos-alapfogalmak)
 * [ ] [A különböző kapcsolatok típusai videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10192539-a-kulonbozo-kapcsolatok-tipusai)
 * [ ] [Szintaxis, adattípusok és táblák videó](https://e-learning.training360.com/courses/take/mariadb/lessons/10192538-szintaxis-adattipusok-es-tablak)
 
@@ -52,5 +52,5 @@ bemutatottakat kell megcsinálni a videóval együtt!
 * [x] 2022-02-09 konzultáció gyakorlati feladat
 * [x] 2022-02-10 konzultáció részvétel/videó
 * [x] 2022-02-10 konzultáció gyakorlati feladat
-* [ ] 2022-02-11 konzultáció részvétel/videó
-* [ ] 2022-02-11 konzultáció gyakorlati feladat
+* [x] 2022-02-11 konzultáció részvétel/videó
+* [x] 2022-02-11 konzultáció gyakorlati feladat
