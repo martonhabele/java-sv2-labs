@@ -1,4 +1,4 @@
-package lambdastreams;
+package lambdastreams.baseoperations;
 
 import java.util.Comparator;
 import java.util.List;
